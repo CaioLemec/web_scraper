@@ -17,7 +17,7 @@ With these lines of code it is possible to web scrape some sites.
 
 Web Scrape? 
 
-```js
+```bash
 Web scraping is a form of mining that allows you to extract data from websites and convert them into structured information.
 ```
 
