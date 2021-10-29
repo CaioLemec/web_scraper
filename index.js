@@ -18,9 +18,9 @@ axios(url).then(response => {
             title,
             url
         })
+   
     })
     console.log(articles)
 }).catch(err => console.log(err))
 
 app.listen(PORT, () => console.log(`🚀 Server is running on ${PORT} 🚀`))
-
